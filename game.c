@@ -17,7 +17,7 @@ int main(){
     printf("Welcome %s\n", name) ;
     printf("||The name of game is stone , paper and scissors and the rules are as follows\n\n") ;
     printf("*press 0 to choose stone*\n") ;  printf("*press 1 to choose paper*\n") ;  printf("*press 2 to choose scissor*\n") ;
-    printf("If you will win any turn then you will get 2 points , if you loose you will get 0 point , In any other case you will get 1 point and same is true for robotics boy\n ") ;
+    printf("If you@ will win any turn then you will get 2 points , if you loose you will get 0 point , In any other case you will get 1 point and same is true for robotics boy\n ") ;
     printf("\nEnter how many turn do you want to play\n") ;
     scanf("%d", &n) ;
     printf("If you want that first turn is your, press 3\n") ;
